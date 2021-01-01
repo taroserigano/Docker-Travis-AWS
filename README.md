@@ -1,6 +1,5 @@
-# React + Docker + Nginx 
+# React + Docker + Nginx + Tracis CI + AWS Beanstalk 
 ## Running Nginx for production suited environment 
 
-<img src="public/1.png">
+<img src="flow.png">
 
-<img src="public/home.png">
